@@ -1,0 +1,21 @@
+{
+  "name": "teste-winprovit",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.4",
+    "vite": "^3.2.3",
+    "vitest": "^0.25.3"
+  },
+  "dependencies": {
+    "cross-fetch": "^3.1.5",
+    "rxjs": "^7.5.7"
+  }
+}

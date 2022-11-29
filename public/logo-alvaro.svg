@@ -1,0 +1,26 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+	<title>Novo Projeto</title>
+	<defs>
+		<linearGradient id="g1" x1="-64.7" y1="415.6" x2="114.1" y2="312.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ef4a47" stop-opacity="0"/>
+			<stop offset="1" stop-color="#88221f"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="804.1" y1="732.9" x2="715.4" y2="784.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#ef4a47" stop-opacity="0"/>
+			<stop offset="1" stop-color="#88221f"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #ef4947 } 
+		.s1 { fill: url(#g1) } 
+		.s2 { fill: url(#g2) } 
+	</style>
+	<g id="&lt;Group&gt;">
+		<path id="&lt;Path&gt;" class="s0" d="m162.5 317.5l119.8 257h-255.3l119.9-257z"/>
+		<path id="&lt;Path&gt;" class="s0" d="m773.7 705.6h-129.7l-60.9-130.6h129.7z"/>
+		<path id="&lt;Path&gt;" class="s1" d="m240.1 574.5h-213.1l106.5-228.5z"/>
+		<path id="&lt;Path&gt;" class="s2" d="m609.3 575.2h103.7l60.7 130.5-103.7-0.1z"/>
+		<path id="&lt;Path&gt;" class="s0" d="m152 71l295.9 634.6h-146.6l-231.2-495.8 64.7-138.8z"/>
+		<path id="&lt;Path&gt;" class="s0" d="m670 705.6h-146.6l-295.9-634.6h146.6z"/>
+	</g>
+</svg>
